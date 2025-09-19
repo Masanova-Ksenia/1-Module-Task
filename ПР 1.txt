@@ -1,0 +1,41 @@
+public class Product
+{
+	public int Id {get; set;}
+	public String Name {get; set;}
+	public double Price {get; set;}
+}
+public class Order 
+{
+	private List<Product> products;
+	public Order()
+	{
+	products = new List<Product>();
+	}
+	public void AddProduct(Product product)
+}
+public class PriceCalculation 
+	{
+	public double Calculate(List<Product> products)
+	{
+	return products.Sum(s => s.Price);
+	}
+}
+
+public interface IPayment
+{
+	void ProcessPayment(double amount);
+}
+public class CreditCard : IPayment
+{
+	public void ProcessPayment(double amount)
+	{
+		Console.WriteLine("Оплата прошла кредитной картой");
+	}
+}
+public class PaypPal : IPayment
+{
+	public void ProcessPayment(double amount)
+	{
+	Console.WriteLine("Оплата прошла по PayPal");
+	}
+}
