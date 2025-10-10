@@ -1,0 +1,17 @@
+﻿Text Report
+--------------------------------------------------
+Content
+
+## Introduction
+A brief introduction to the report.
+You can insert multiple lines here.
+
+## Data
+Table/graph/data description...
+
+## Conclusions
+Brief conclusions and recommendations.
+--------------------------------------------------
+(c) 2025 Example
+
+[Style] BG=#FFFFFF, Font=#000000, Size=12

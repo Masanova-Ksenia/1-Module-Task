@@ -1,0 +1,15 @@
+﻿{
+  "Title": "JSON Report",
+  "Content": "Content",
+  "Footer": "Footer JSON",
+  "Style": {
+    "BackgroundColor": "#F4F6F8",
+    "FontColor": "#333333",
+    "FontSize": 14
+  },
+  "Sections": {
+    "Introduction": "A brief introduction to the report.\nYou can insert multiple lines here.",
+    "Data": "Table/graph/data description...",
+    "Conclusions": "Brief conclusions and recommendations."
+  }
+}
