@@ -1,0 +1,8 @@
+Title: Clone
+Content: Main content
+Section: Intro - Welcome
+Section: Extra - Additional content
+Image: image1.png
+Table:
+A	B	
+1	2	

@@ -1,0 +1,7 @@
+Title: Original
+Content: Main content
+Section: Intro - Welcome
+Image: image1.png
+Table:
+A	B	
+1	2	
