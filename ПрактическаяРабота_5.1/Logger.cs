@@ -22,7 +22,7 @@ namespace ПрактическаяРабота_5._1
         private readonly string _filePath;
         private readonly long _maxFileSize;
         private readonly object _lock = new object();
-        public FileLogTarget(string filePath, long maxFileSize = 5_000_000) // 5 МБ
+        public FileLogTarget(string filePath, long maxFileSize = 5_000_000)
         {
             _filePath = filePath;
             _maxFileSize = maxFileSize;

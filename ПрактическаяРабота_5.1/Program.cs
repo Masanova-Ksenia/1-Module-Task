@@ -10,17 +10,17 @@ public class Program
         Thread t1 = new Thread(() =>
         {
             for (int i = 0; i < 5; i++)
-                logger.Log("Сообщение INFO из потока 1", LogLevel.INFO);
+                logger.Log("Message INFO from flow 1", LogLevel.INFO);
         });
         Thread t2 = new Thread(() =>
         {
             for (int i = 0; i < 5; i++)
-                logger.Log("Сообщение WARNING из потока 2", LogLevel.WARNING);
+                logger.Log("Message WARNING from flow 2", LogLevel.WARNING);
         });
         Thread t3 = new Thread(() =>
         {
             for (int i = 0; i < 5; i++)
-                logger.Log("Сообщение ERROR из потока 3", LogLevel.ERROR);
+                logger.Log("Message ERROR from flow 3", LogLevel.ERROR);
         });
 
         t1.Start();
@@ -31,6 +31,6 @@ public class Program
         t2.Join();
         t3.Join();
 
-        Console.WriteLine("Логирование завершено");
+        Console.WriteLine("Logging completed");
     }
 }

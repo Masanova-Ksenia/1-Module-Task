@@ -17,7 +17,7 @@ namespace ПрактическаяРабота_5._1
         {
             if (!File.Exists(_logFilePath))
             {
-                Console.WriteLine("Файл логов не найден.");
+                Console.WriteLine("Log file not found");
                 return;
             }
             foreach (var line in File.ReadAllLines(_logFilePath))
