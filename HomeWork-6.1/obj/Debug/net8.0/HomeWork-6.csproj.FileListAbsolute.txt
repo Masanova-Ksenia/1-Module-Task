@@ -1,0 +1,14 @@
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\bin\Debug\net8.0\HomeWork-6.exe
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\bin\Debug\net8.0\HomeWork-6.deps.json
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\bin\Debug\net8.0\HomeWork-6.runtimeconfig.json
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\bin\Debug\net8.0\HomeWork-6.dll
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\bin\Debug\net8.0\HomeWork-6.pdb
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\HomeWork-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\HomeWork-6.AssemblyInfoInputs.cache
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\HomeWork-6.AssemblyInfo.cs
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\HomeWork-6.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\HomeWork-6.dll
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\refint\HomeWork-6.dll
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\HomeWork-6.pdb
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\HomeWork-6.genruntimeconfig.cache
+D:\Учеба\3 курс\Шаблоны проектирования приложений\Домашнее задание\HomeWork-6\obj\Debug\net8.0\ref\HomeWork-6.dll
