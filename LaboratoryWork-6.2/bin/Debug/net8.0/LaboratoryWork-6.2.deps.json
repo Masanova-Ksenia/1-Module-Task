@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LaboratoryWork-6.2/1.0.0": {
+        "runtime": {
+          "LaboratoryWork-6.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaboratoryWork-6.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
