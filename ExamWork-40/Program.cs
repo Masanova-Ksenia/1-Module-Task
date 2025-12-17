@@ -8,7 +8,7 @@ namespace ExamWork_40
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             var scenarios = new Dictionary<string, List<string>>{
             { "OrderModule.OrderCreated", new List<string> { "EmailModule", "LogModule" } }
